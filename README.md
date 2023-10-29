@@ -3,9 +3,10 @@
 Now that I got your attention, Welcome! ╰(◡‿◡✿╰) <br>
 <br>
 I'm a Web Developer who is currently on a journey across MERN and Django Stacks. Haven't found the right recipe for my career but I love exploring and collaborating on exciting projects!
-<br> 🌱 I’m currently learning ... <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" style="width:25px"> <a href="https://"><img src="https://img.shields.io/badge/SQL-03c2fc?logo=SQL" alt="SQL"></a>
+<br> 🌱 I’m currently learning ... <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node" style="width:25px"> <a href="https://"><img src="https://img.shields.io/badge/SQL-03c2fc?logo=SQL" alt="SQL"></a>
 <br>
 <br>
+𝓐 𝓅𝑜𝓮𝓶 𝓯𝓻𝓸𝓶 𝓪 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇...<br>
 🌹Roses are Red<br> 🌀Violets are Blue<br>Unexpected '{' on line 32.
 <!--About me section-->
 <div>
