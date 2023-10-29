@@ -1,4 +1,4 @@
- ## Hey Listen! <a href="https://www.linkedin.com/in/jperry09/"></a><img src="https://media.giphy.com/media/8yGKPxtD88GZcd7eZB/giphy.gif" width="15%">
+ ## Hey Listen! <a href="https://www.linkedin.com/in/jperry09/"><img src="https://media.giphy.com/media/8yGKPxtD88GZcd7eZB/giphy.gif" width="15%"></a>
 
 Now that I got your attention, Welcome! ╰(◡‿◡✿╰) <br>
 <br>
